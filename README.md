@@ -1,3 +1,1365 @@
+<!-- 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/main/rainbow-superthin.webp" width="100%"/>
+</p>
+-->
+
+<!-- MODERN PORTFOLIO README -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/main/rainbow-superthin.webp" width="100%"/>
+</p>
+<!-- 
+<h1 align="center">👋 Hi, I'm <span style="color:#50fa7b;">Ebrahim Alahmadi</span></h1>
+-->
+
+<h1 align="center"> Hi there 👋 Welcome to my Github Profile! </h1>
+<h2 align="center"><span style="color:#bd93f9;">I'm Ebrahim Alahmadi </span></h2>
+<h3 align="center"><span style="color:#bd93f9;">Software Engineer | Full-Stack Developer</span></h3
+
+
+
+
+
+<img width="100%" loading="lazy" src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/main/rainbow-superthin.webp" />
+
+<br/>
+
+
+<div align="center">
+
+## 💬 Connect With Me
+
+<br>
+
+<a href="https://www.linkedin.com/in/ebrahimalahmadi"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+<a href="https://github.com/ebrahimalahmadi"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"></a>
+<a href="https://wa.me/+967772053309"><img src="https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"></a>
+<a href="https://www.facebook.com/share/1A2VH3VeuH"><img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge"></a>
+<a href="https://www.instagram.com/ebra.dev?igsh=MTg5MHplaDc4NXNvbg"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"></a>
+<a href="https://t.me/Eng_Ebrahim_Alahmdi"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge"></a>
+
+</div>
+
+
+
+
+
+<br/>
+<br/>
+
+
+
+
+
+
+
+<!-- 
+
+---
+
+## 🌟 Professional Summary
+
+> **Passionate backend developer** with a love for building scalable, secure, and high-performance web applications.  
+> Specialized in PHP, Laravel, and modern JavaScript frameworks.  
+> Always excited to learn, contribute, and collaborate in open source.
+
+---
+
+-->
+
+<br>
+
+## 🌟 Professional Summary
+
+> I am **Ebrahim Al-Ahmadi**, a passionate **Junior Full-Stack Developer** focused on building  
+> **high-performance, scalable web applications**.  
+> Specialized in **PHP & Laravel**, with strong frontend skills in modern frameworks and tools.  
+>  
+> 🎓 Recently completed my **Bachelor's degree in Information Technology**, gaining hands-on experience in  
+> **programming, networking, software development, and system analysis**.  
+>  
+> ⚡ Strengths: **RESTful API Development**, **Database Optimization**, **Responsive UI Design**.  
+>  
+> 🚀 Worked on academic and personal projects (desktop, mobile, and web). Fast learner, adaptable,  
+> and always eager to explore new technologies to solve real-world problems effectively.  
+
+---
+
+
+
+<br/>
+<br/>
+
+
+
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,python,cpp,cs" height="40" />
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,flutter,figma" height="40" />
+  <!-- Backend/DB -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mysql,mongodb,redis,postgres" height="40" />
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,visualstudio,vscode,photoshop,docker" height="40" />
+  <!-- Deployment -->
+  <img src="https://skillicons.dev/icons?i=vercel,railway" height="40" />
+
+</div>
+
+
+<br>
+<br>
+
+<!---
+
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+  
+  <img src="https://skillicons.dev/icons?i=php,cpp,cs,js,python,dart" height="40" />
+  
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,flutter,figma" height="40" />
+  
+  <img src="https://skillicons.dev/icons?i=laravel,django,aspnet" height="40" />
+  
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlserver,oracle" height="40" />
+  
+  <img src="https://skillicons.dev/icons?i=postman,swagger,git,github,visualstudio,vscode,androidstudio,canva,photoshop" height="40" />
+  
+  <img src="https://skillicons.dev/icons?i=hostinger,bluehost,infinityfree" height="40" />
+
+</div>
+
+ -->
+
+
+ 
+<!---
+
+---
+## 🚀 Tech Stack
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=php,cpp,cs,js,python,dart&theme=dark" height="40" />
+  
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,flutter,figma&theme=dark" height="40" />
+  
+  <img src="https://skillicons.dev/icons?i=laravel,django,aspnet&theme=dark" height="40" />
+  
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlserver,oracle&theme=dark" height="40" />
+  
+  <img src="https://skillicons.dev/icons?i=postman,swagger,git,github,visualstudio,vscode,androidstudio,canva,photoshop&theme=dark" height="40" />
+  
+  <img src="https://skillicons.dev/icons?i=vercel,railway&theme=dark" height="40" />
+
+</div>
+-->
+
+
+
+
+<!---
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=php,cpp,cs,js,python,dart&theme=dark" height="40" title="PHP, C++, C#, JavaScript, Python, Dart" />
+  
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,flutter,figma&theme=dark" height="40" title="HTML5, CSS3, Bootstrap, Tailwind, React, Flutter, Figma" />
+  
+  <img src="https://skillicons.dev/icons?i=laravel,django,aspnet&theme=dark" height="40" title="Laravel, Django, ASP.NET" />
+  
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlserver,oracle&theme=dark" height="40" title="MySQL, MongoDB, SQL Server, Oracle" />
+  
+  <img src="https://skillicons.dev/icons?i=postman,swagger,git,github,visualstudio,vscode,androidstudio,canva,photoshop&theme=dark" height="40" title="Postman, Swagger, Git, GitHub, VS, VS Code, Android Studio, Canva, Photoshop" />
+  
+  <img src="https://skillicons.dev/icons?i=vercel,railway,hostgator&theme=dark" height="40" title="Vercel, Railway, Hostgator" />
+
+</div>
+-->
+
+
+<!--
+
+## 📝 Professional Summary
+
+<p align="center">
+I am <b>Ebrahim Al-Ahmadi</b>, a passionate <b>Junior Full-Stack Developer</b> focused on building 
+<b>high-performance, scalable web applications</b>.  
+I specialize in backend development using <b>PHP & Laravel</b>, and I also have strong frontend 
+skills with modern frameworks and tools.  
+</p>
+
+<p align="center">
+🎓 Recently completed my <b>Bachelor's degree in Information Technology</b>, gaining hands-on 
+experience in <b>programming, networking, software development, and system analysis</b>.  
+</p>
+
+<p align="center">
+⚡ My strengths include:  
+✔️ Building <b>RESTful APIs</b>  
+✔️ Optimizing <b>databases</b>  
+✔️ Designing <b>responsive UIs</b>  
+</p>
+
+<p align="center">
+I have worked on <b>academic and personal projects</b> ranging from desktop to mobile and web applications.  
+🚀 I am a <b>fast learner</b>, adaptable, and always eager to explore new technologies to solve real-world problems effectively.  
+</p>
+
+
+
+<br/>
+<br/>
+
+-->
+
+
+<hr/>
+
+## 🎓 Education
+
+<p align="center">
+📅 <b>09/2021 – 05/2025</b><br/>
+<b>Bachelor in Information Technology</b> – Emirates International University  
+Department: IT Department – 📍 Sanaa, Yemen
+</p>
+
+<!-- <p align="center">
+📊 Overall Grade: <b>Very Good</b> – GPA: <b>3.0 / 4.0</b>
+</p> -->
+
+<p align="center">
+📊 Overall Grade: <b>Very Good</b> 
+</p>
+
+<p align="center">
+🎓 Graduation Project: <b>Multi-Vendor eCommerce CMS platform "Yemen Zone"</b><br/>
+🏆 Project Grade: <b>Excellent</b>
+</p>
+
+
+
+
+
+
+<!-- Professional Summary (YAML-safe) -->
+
+<!--
+
+<hr/>
+
+## 📝 Professional Summary
+
+<p align="center">
+I am <b>Ebrahim Al-Ahmadi</b>, a passionate <b>Junior Full-Stack Developer</b> focused on building 
+<b>high-performance, scalable web applications</b>. I specialize in backend development using 
+<b>PHP & Laravel</b>, and I also have strong frontend skills with modern frameworks and tools.
+</p>
+
+<p align="center">
+🎓 Recently completed my <b>B.Sc. in Information Technology</b> with hands-on experience in 
+<b>programming, networking, software development, and system analysis</b>.
+</p>
+
+<p align="center">
+⚡ Strengths: ✔️ <b>RESTful APIs</b> • ✔️ <b>Database Optimization</b> • ✔️ <b>Responsive UI Design</b>
+</p>
+
+<p align="center">
+I have worked on <b>academic and personal projects</b> ranging from desktop to mobile and web apps. 
+🚀 A <b>fast learner</b>, adaptable, and always eager to explore new technologies to solve real-world problems effectively.
+</p>
+
+<hr/>
+
+
+
+-->
+
+
+
+
+
+
+<!--
+--
+## 📝 Professional Summary
+
+<p align="center">
+I am <b>Ebrahim Al-Ahmadi</b>, a passionate <b>Junior Full-Stack Developer</b> focused on building 
+<b>high-performance, scalable web applications</b>.  
+I specialize in backend development using <b>PHP & Laravel</b>, and I also have strong frontend 
+skills with modern frameworks and tools.  
+</p>
+
+<p align="center">
+🎓 Recently completed my <b>Bachelor's degree in Information Technology</b>, gaining hands-on 
+experience in <b>programming, networking, software development, and system analysis</b>.  
+</p>
+
+<p align="center">
+⚡ My strengths include:  
+✔️ Building <b>RESTful APIs</b>  
+✔️ Optimizing <b>databases</b>  
+✔️ Designing <b>responsive UIs</b>  
+</p>
+
+<p align="center">
+I have worked on <b>academic and personal projects</b> ranging from desktop to mobile and web applications.  
+🚀 I am a <b>fast learner</b>, adaptable, and always eager to explore new technologies to solve real-world problems effectively.  
+</p>
+-->
+
+<br/>
+<br/>
+
+
+
+
+
+<hr/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+  
+| 🛒 **E-Commerce Platform** | 📰 **News Portal API** | ✅ **Task Manager API** |
+|----------------------------|-------------------------|-------------------------|
+| MERN stack, Stripe, Admin Dashboard | Laravel Sanctum, OTP, Redis, Pusher | Laravel 12, Role-based, Queues, Analytics |
+
+</div>
+
+🔗 Other Projects: Weather App 🌦, Hotel Booking 🏨, Multi-Vendor CMS 🛍️  
+
+
+---
+
+## 🏆 Certificates
+✔️ Laravel RESTful APIs (Udemy)  
+✔️ CCNA – Cisco Certified  
+✔️ MCSE – Microsoft Solutions Expert  
+✔️ CompTIA A+  
+✔️ Flutter Bootcamp  
+
+
+
+<br>
+<br>
+
+---
+
+# 🧑‍💻 Tech Stack
+
+### 💡 Programming
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,cs,cpp,js,py" />
+</p>
+<p align="center">
+  🟢 OOP (Object Oriented Programming)
+</p>
+
+
+### 🎨 Front-End
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
+</p>
+
+### 🛠 Back-End
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,django,dotnet" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle" />
+<!--    <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge"/> -->
+
+</p>
+
+
+<br>
+<br>
+
+
+
+
+---
+
+### 🔌 API Development & Testing
+<p align="center">
+  <img src="https://img.shields.io/badge/-RESTful%20APIs-007bff?style=for-the-badge&logo=api&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge"/>
+</p>
+
+
+---
+
+### 🌐 Hosting & Deployment
+<p align="center">
+  <img src="https://img.shields.io/badge/-Hostinger-673DE6?logo=hostinger&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Bluehost-0D96F6?logo=bluehost&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-InfinityFree-FF9900?style=for-the-badge"/>
+</p>
+
+
+
+---
+
+### 🎨 UI/UX Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=Canva&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge"/>
+</p>
+<p align="center">
+  🖼️ Wireframing • 📝 Prototyping • 🎨 Design Systems  
+  📱 Responsive Design • 🔗 Frontend ↔ Backend (Laravel Blade)
+</p>
+
+
+
+
+
+---
+
+### ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio" />
+</p>
+
+
+
+
+---
+
+### 🤝 Soft Skills
+<p align="center">
+  🗂️ Project Management • ⏱️ Time Management • 👑 Leadership  
+  🔄 Adaptability • 🤝 Team Collaboration
+</p>
+
+
+
+
+  <!-- 
+  
+
+## 📐 Systems Analysis & Design
+
+<div align="center">
+
+ Tools 
+  <img src="https://img.shields.io/badge/UML-E84D3D?logo=uml&logoColor=white&style=for-the-badge" height="40" title="UML" />
+  <img src="https://img.shields.io/badge/Enterprise%20Architect-0073b7?style=for-the-badge" height="40" title="Enterprise Architect" />
+  <img src="https://img.shields.io/badge/Draw.io-FF9900?logo=diagrams.net&logoColor=white&style=for-the-badge" height="40" title="Draw.io" />
+  <img src="https://img.shields.io/badge/Lucidchart-F6961E?logo=lucidchart&logoColor=white&style=for-the-badge" height="40" title="Lucidchart" />
+  <img src="https://img.shields.io/badge/Visio-2B579A?logo=microsoft-visio&logoColor=white&style=for-the-badge" height="40" title="Microsoft Visio" />
+
+   Diagram Types
+  <img src="https://img.shields.io/badge/ERD-0070b8?style=for-the-badge" height="40" title="ERD" />
+  <img src="https://img.shields.io/badge/BPMN-007dba?style=for-the-badge" height="40" title="BPMN" />
+
+SDLC Phases 
+  <img src="https://img.shields.io/badge/Requirements-32B67A?style=for-the-badge" height="40" title="Requirements Gathering" />
+  <img src="https://img.shields.io/badge/System%20Design-007bff?style=for-the-badge" height="40" title="System Design" />
+  <img src="https://img.shields.io/badge/Implementation-e84d3d?style=for-the-badge" height="40" title="Implementation" />
+  <img src="https://img.shields.io/badge/Integration%20&%20Testing-00c7b7?style=for-the-badge" height="40" title="Integration & Testing" />
+  <img src="https://img.shields.io/badge/Deployment-ff9900?style=for-the-badge" height="40" title="Deployment" />
+  <img src="https://img.shields.io/badge/Maintenance-0092cc?style=for-the-badge" height="40" title="Maintenance" />
+
+</div>
+
+---
+-->
+<!--
+
+
+### 📐 Systems Analysis & Design
+<p align="center">
+  📋 Requirements Gathering & Documentation  
+  🧩 UML Modeling (Use Case, Class, Sequence, Activity) – *EdrawMax*
+</p>
+
+![UML](https://img.shields.io/badge/-UML-E84D3D?logo=uml&logoColor=white&style=for-the-badge)
+![Enterprise Architect](https://img.shields.io/badge/-Enterprise%20Architect-0073b7?style=for-the-badge)
+![Draw.io](https://img.shields.io/badge/-Draw.io-FF9900?logo=diagrams.net&logoColor=white&style=for-the-badge)
+![Lucidchart](https://img.shields.io/badge/-Lucidchart-F6961E?logo=lucidchart&logoColor=white&style=for-the-badge)
+![Microsoft Visio](https://img.shields.io/badge/-Visio-2B579A?logo=microsoft-visio&logoColor=white&style=for-the-badge)
+![ERD](https://img.shields.io/badge/-ERD-0070b8?style=for-the-badge)
+![BPMN](https://img.shields.io/badge/-BPMN-007dba?style=for-the-badge)
+
+![Requirements](https://img.shields.io/badge/-Requirements-32B67A?style=for-the-badge)
+![System Design](https://img.shields.io/badge/-System%20Design-007bff?style=for-the-badge)
+![Implementation](https://img.shields.io/badge/-Implementation-e84d3d?style=for-the-badge)
+![Integration & Testing](https://img.shields.io/badge/-Integration%20&%20Testing-00c7b7?style=for-the-badge)
+![Deployment](https://img.shields.io/badge/-Deployment-ff9900?style=for-the-badge)
+![Maintenance](https://img.shields.io/badge/-Maintenance-0092cc?style=for-the-badge)
+
+---
+
+-->
+---
+### 📐 Systems Analysis & Design
+
+<p align="center">
+  📋 Requirements Gathering & Documentation  <br>
+  🧩 UML Modeling (Use Case, Class, Sequence, Activity) – *EdrawMax*
+</p>
+
+<!--
+
+
+### 📐 Systems Analysis & Design
+
+<p align="center">
+  📋 Requirements Gathering & Documentation  <br>
+  🧩 UML Modeling (Use Case, Class, Sequence, Activity) – *EdrawMax*
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-UML-E84D3D?logo=uml&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Enterprise%20Architect-0073b7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Draw.io-FF9900?logo=diagrams.net&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Lucidchart-F6961E?logo=lucidchart&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Visio-2B579A?logo=microsoft-visio&logoColor=white&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-ERD-0070b8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-BPMN-007dba?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Requirements-32B67A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-System%20Design-007bff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Implementation-e84d3d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Integration%20&%20Testing-00c7b7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Deployment-ff9900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Maintenance-0092cc?style=for-the-badge" />
+</p>
+
+
+---
+<img width="100%" loading="lazy" src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/main/rainbow-superthin.webp" />
+
+
+-->
+
+
+---
+
+### 📌 Additional Competencies
+<p align="center">
+  ✨ Clean, scalable code • ⚡ Performance Optimization  
+  🔒 Web Security Best Practices • 🔄 SDLC Understanding  
+  🚀 Fast learner & proactive
+</p>
+
+---
+
+
+
+<!-- 
+
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahimalahmdi&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ebrahimalahmdi&show_icons=true&theme=radical&hide_border=true" height="160"/>
+</div>
+
+---
+
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/ebrahimalahmadi"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://github.com/ebrahimalahmadi"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="mailto:ebrahimalahmdi1694450@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://wa.me/+967772053309"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" height="40"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/main/rainbow-superthin.webp" width="100%"/>
+</p>
+
+
+
+
+<br/>
+<br/>
+
+# 🧑‍💻 Tech Stack
+
+---
+
+### 💡 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,cs,cpp,js,py" />
+</p>
+<p align="center">
+  🟢 OOP (Object Oriented Programming)
+</p>
+
+---
+
+### 🗄️ Databases
+**Relational**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,oracle" />
+  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge"/>
+</p>
+
+**NoSQL**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+---
+
+### 🌐 Hosting & Deployment
+<p align="center">
+  <img src="https://img.shields.io/badge/-Hostinger-673DE6?logo=hostinger&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Bluehost-0D96F6?logo=bluehost&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-InfinityFree-FF9900?style=for-the-badge"/>
+</p>
+
+---
+
+### 🤝 Soft Skills
+<p align="center">
+  🗂️ Project Management • ⏱️ Time Management • 👑 Leadership  
+  🔄 Adaptability • 🤝 Team Collaboration
+</p>
+
+---
+
+### 🛠 Back-End Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,dotnet,django,dart" />
+</p>
+
+---
+
+### 🔌 API Development & Testing
+<p align="center">
+  <img src="https://img.shields.io/badge/-RESTful%20APIs-007bff?style=for-the-badge&logo=api&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge"/>
+</p>
+
+---
+
+### 📐 Systems Analysis & Design
+<p align="center">
+  📋 Requirements Gathering & Documentation  
+  🧩 UML Modeling (Use Case, Class, Sequence, Activity) – *EdrawMax*
+</p>
+
+---
+
+### 📌 Additional Competencies
+<p align="center">
+  ✨ Clean, scalable code • ⚡ Performance Optimization  
+  🔒 Web Security Best Practices • 🔄 SDLC Understanding  
+  🚀 Fast learner & proactive
+</p>
+
+---
+
+### 🎨 Front-End Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,flutter" />
+</p>
+<p align="center">
+  💻 C# WinForms
+</p>
+
+---
+
+### 🎨 UI/UX Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=Canva&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge"/>
+</p>
+<p align="center">
+  🖼️ Wireframing • 📝 Prototyping • 🎨 Design Systems  
+  📱 Responsive Design • 🔗 Frontend ↔ Backend (Laravel Blade)
+</p>
+
+---
+
+### ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio" />
+</p>
+
+
+
+
+
+-->
+
+
+<!--
+
+
+# 🧑‍💻 Tech Skills
+
+---
+
+## ⚡ Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,cs,cpp,js,py" height="40"/>
+</p>
+<p align="center">
+  🟢 OOP (Object Oriented Programming)
+</p>
+
+---
+
+## 🗄️ Database Engineer
+**Relational Databases**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,oracle" height="40"/>
+  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge"/>
+</p>
+
+**NoSQL**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+</p>
+
+---
+
+## 🌐 Hosting & Deployment
+<p align="center">
+  <img src="https://img.shields.io/badge/-Hostinger-673DE6?logo=hostinger&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Bluehost-0D96F6?logo=bluehost&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-InfinityFree-FF9900?style=for-the-badge"/>
+</p>
+
+---
+
+## 🤝 Soft Skills
+<p align="center">
+  🗂️ Project Management • ⏱️ Time Management • 👑 Leadership  
+  🔄 Adaptability • 🤝 Team Collaboration
+</p>
+
+---
+
+## 🛠 Back-End Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,dotnet,django,dart" height="40"/>
+</p>
+
+---
+
+## 🔌 API Development & Testing
+<p align="center">
+  <img src="https://img.shields.io/badge/-RESTful%20APIs-007bff?style=for-the-badge&logo=api&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge"/>
+</p>
+
+---
+
+## 📐 Systems Analysis & Design
+<p align="center">
+  📋 Requirements Gathering & Documentation  
+  🧩 UML Modeling (Use Case, Class, Sequence, Activity) – *EdrawMax*
+</p>
+
+---
+
+## 📌 Additional Competencies
+<p align="center">
+  ✨ Clean, scalable code • ⚡ Performance Optimization  
+  🔒 Web Security Best Practices • 🔄 SDLC Understanding  
+  🚀 Fast learner & proactive
+</p>
+
+---
+
+## 🎨 Front-End Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,flutter" height="40"/>
+</p>
+<p align="center">
+  💻 C# WinForms
+</p>
+
+---
+
+## 🎨 UI/UX Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" height="40"/>
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=Canva&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge"/>
+</p>
+<p align="center">
+  🖼️ Wireframing • 📝 Prototyping • 🎨 Design Systems  
+  📱 Responsive Design • 🔗 Frontend ↔ Backend (Laravel Blade)
+</p>
+
+---
+
+## ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio" height="40"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/main/rainbow-superthin.webp" width="100%"/>
+</p>
+
+
+
+<!-- MODERN PORTFOLIO README -->
+
+<!-- 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/main/rainbow-superthin.webp" width="100%"/>
+</p>
+
+<h1 align="center">👋 Hi, I'm <span style="color:#50fa7b;">Ebrahim Alahmadi</span></h1>
+<h3 align="center"><span style="color:#bd93f9;">Software Engineer | Full-Stack Developer</span></h3>
+
+---
+
+## 🦾 About Me
+💻 Junior **Full-Stack Developer** with a passion for building **scalable apps** using **Laravel & PHP**.  
+⚡ Skilled in **RESTful APIs, database optimization, and modern frontend frameworks**.  
+🌍 Open to collaboration, continuous learning, and contributing to open-source.  
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+  
+| 🛒 **E-Commerce Platform** | 📰 **News Portal API** | ✅ **Task Manager API** |
+|----------------------------|-------------------------|-------------------------|
+| MERN stack, Stripe, Admin Dashboard | Laravel Sanctum, OTP, Redis, Pusher | Laravel 12, Role-based, Queues, Analytics |
+
+</div>
+
+🔗 Other Projects: Weather App 🌦, Hotel Booking 🏨, Multi-Vendor CMS 🛍️  
+
+---
+
+## 🎓 Education
+🎓 **B.Sc. Information Technology** – *Emirates International University*  
+📍 Sanaa, Yemen (2021 – 2025)  
+- GPA: **3.0 / 4.0**  
+- Graduation Project: **Multi-Vendor eCommerce CMS "Yemen Zone"** *(Excellent)*  
+
+---
+
+## 🏆 Certificates
+✔️ Laravel RESTful APIs (Udemy)  
+✔️ CCNA – Cisco Certified  
+✔️ MCSE – Microsoft Solutions Expert  
+✔️ CompTIA A+  
+✔️ Flutter Bootcamp  
+
+---
+
+# 🧑‍💻 Tech Stack
+
+### 💡 Programming
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,cs,cpp,js,py" />
+</p>
+
+### 🎨 Front-End
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
+</p>
+
+### 🛠 Back-End
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,django,dotnet" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahimalahmdi&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ebrahimalahmdi&show_icons=true&theme=radical&hide_border=true" height="160"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/ebrahimalahmadi"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://github.com/ebrahimalahmadi"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="mailto:ebrahimalahmdi1694450@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://wa.me/+967772053309"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" height="40"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/main/rainbow-superthin.webp" width="100%"/>
+</p>
+
+-->
+
+
+
+
+<!-- DARK MODE README - Modern Portfolio Style -->
+
+
+<!--
+
+
+<img width="100%" loading="lazy" src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/main/rainbow-superthin.webp" />
+
+<div align="center">
+
+# <span style="color:#50fa7b;">👋 Hi, I'm Ebrahim Alahmadi</span>  
+**<span style="color:#bd93f9;">Software Engineer | Full-Stack Developer</span>**
+
+</div>
+
+---
+
+## 🦾 About Me
+
+I'm **Ebrahim Al-Ahmadi**, a passionate **Junior Full-Stack Developer** specialized in **backend development with PHP & Laravel** and skilled in modern frontend frameworks.  
+I enjoy building **scalable web apps**, designing **RESTful APIs**, and optimizing **databases**.  
+I recently completed my **B.Sc. in IT**, where I worked on academic and personal projects ranging from **desktop** to **mobile** and **web applications**.  
+
+- 🚀 Problem solver & clean code enthusiast  
+- 💡 Experienced in real-time systems, APIs & database optimization  
+- 🎯 Always learning and eager to collaborate  
+
+---
+
+## 💼 Featured Projects
+
+### 🛒 Full Stack E-Commerce Platform (01/2023 – Present)
+- MERN stack with 200+ products, Stripe integration & admin dashboard  
+- Backend on Railway, frontend on Vercel with CI/CD  
+
+### 📰 News Portal API (05/2023)
+- Laravel Sanctum, OTP, secure login/registration  
+- Redis caching, Pusher & Echo for notifications  
+
+### ✅ Task Management System API (05/2023)
+- Role-based access (Admin/User/Team Lead)  
+- Laravel 12, Redis, Queues, Localization, Dashboard Analytics  
+
+### 📰 News Portal & Magazine Website (01/2023 – 05/2023)
+- Social logins (Google, Facebook), Redis caching, SEO optimization  
+- Real-time comments & notifications via Pusher/Echo  
+
+📌 Other Projects: Weather App 🌦, Hotel Booking System 🏨, Task Manager API 📝  
+
+---
+
+## 🎓 Education
+**B.Sc. in Information Technology** – *Emirates International University*  
+📍 Sanaa, Yemen (09/2021 – 05/2025)  
+- GPA: 3.0/4.0 – Grade: Very Good  
+- Graduation Project: **Multi-Vendor eCommerce CMS "Yemen Zone"** (Excellent)  
+
+---
+
+## 🏆 Certificates
+- Laravel RESTful APIs Mastery – Udemy  
+- CCNA (Cisco Certified Network Associate)  
+- MCSE – Microsoft Certified Solutions Expert  
+- CompTIA A+  
+- Flutter Bootcamp  
+- ICDL – New Horizons  
+
+---
+
+## 📖 Courses
+- C# + SQL Desktop Development  
+- Laravel for Absolute Beginners (Levels 1 & 2, Arabic)  
+- Node.js, Nest.js, PostgreSQL, GraphQL & Security  
+- React Web Development Certification  
+- Flutter Development Guide  
+
+---
+
+# 🧑‍💻 Tech Stack
+
+## ⚡ Programming
+![PHP](https://img.shields.io/badge/-PHP-4F5D95?logo=php&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/-C%23-68217A?logo=c-sharp&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+
+## 🎨 Front-End
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+
+## 🛠 Back-End
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+![ASP.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
+
+## 🗄️ Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?logo=mongodb&logoColor=white&style=for-the-badge)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge)
+
+---
+
+## 💬 Connect With Me
+<a href="https://linkedin.com/in/ebrahimalahmadi"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+<a href="https://github.com/ebrahimalahmadi"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"></a>
+<a href="https://wa.me/+967772053309"><img src="https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"></a>
+<a href="mailto:ebrahimalahmdi1694450@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge"></a>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=ebrahimalahmdi&show_icons=true&theme=radical&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ebrahimalahmdi&layout=compact&langs_count=6&theme=radical&hide_border=true" height="150" />
+
+</div>
+
+---
+
+<img width="100%" loading="lazy" src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/main/rainbow-superthin.webp" />
+-->
+
+
+
+<!-- DARK MODE README - Modern Portfolio Style -->
+
+
+
+<!--
+
+<img width="100%" loading="lazy" src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/main/rainbow-superthin.webp" />
+
+
+<div align="center">
+
+# <span style="color:#50fa7b;">👋 Hi, I'm Ebrahim Alahmdi</span>
+**<span style="color:#bd93f9;">Software Engineer | Full-Stack Developer</span>**
+
+</div>
+
+---
+
+## 🦾 About Me
+
+I'm a passionate Backend Developer focused on building **fast, reliable, and scalable** web applications using **PHP** and **Laravel**. My journey spans simple websites to complex enterprise systems, delivering impactful results through clean code and innovative solutions.
+
+- 🚀 Problem solver, clean code enthusiast, and lifelong learner.
+- 💡 Experienced in optimizing databases, building custom APIs, and implementing real-time features.
+- 🎯 Open to exciting open-source collaborations and impactful opportunities.
+
+---
+
+## 💼 What I'm Working On
+
+- 🛠️ Building scalable **Laravel** backend systems
+- 🌐 Specializing in **API Optimization**, **Real-time Systems**, and **Microservices**
+- 💻 Creating robust, high-performance web apps with **PHP** & **Laravel**
+- 📚 Always learning new tools and frameworks
+- 🤝 Open to collaboration in the open-source community
+
+---
+
+<img width="100%" loading="lazy" src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/main/rainbow-superthin.webp" />
+
+---
+
+<div align="center">
+
+## 💬 Connect With Me
+
+<a href="https://www.linkedin.com/in/ebrahimalahmadi"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+<a href="https://github.com/ebrahimalahmadi"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"></a>
+<a href="https://wa.me/+967772053309"><img src="https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"></a>
+<a href="https://www.facebook.com/share/1A2VH3VeuH"><img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge"></a>
+<a href="https://www.instagram.com/ebra.dev?igsh=MTg5MHplaDc4NXNvbg"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"></a>
+<a href="https://t.me/Eng_Ebrahim_Alahmdi"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge"></a>
+
+</div>
+
+---
+
+# 🧑‍💻 Tech Stack
+
+## ⚡ Programming Languages
+![PHP](https://img.shields.io/badge/-PHP-4F5D95?logo=php&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/-C%23-68217A?logo=c-sharp&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
+
+---
+
+## 🎨 Front-End
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+![SASS](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
+
+---
+
+## 🛠️ Back-End & API
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/-Express.js-222222?logo=express&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009485?logo=fastapi&logoColor=white&style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
+![RESTful API](https://img.shields.io/badge/-RESTful%20API-007bff?logo=api&logoColor=white&style=for-the-badge)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge)
+![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white&style=for-the-badge)
+
+---
+
+## 🧪 API & Testing Tools
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge)
+
+---
+
+## 🗄️ Database & Cloud
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft+sql+server&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?logo=mongodb&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/-SQLite-07405e?logo=sqlite&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-039BE5?logo=firebase&logoColor=white&style=for-the-badge)
+
+---
+
+## ⚙️ Development & DevOps
+
+### Editors & IDEs
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![PhpStorm](https://img.shields.io/badge/-PhpStorm-007ACC?logo=phpstorm&logoColor=white&style=for-the-badge)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge)
+
+### Design Tools
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=Canva&logoColor=white&style=for-the-badge)
+![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?logo=Adobe%20After%20Effects&logoColor=white&style=for-the-badge)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white&style=for-the-badge)
+
+### Version Control
+![Git](https://img.shields.io/badge/-Git-F05033?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)
+
+### DevOps Tools
+![Docker](https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white&style=for-the-badge)
+![Composer](https://img.shields.io/badge/-Composer-885630?logo=composer&logoColor=white&style=for-the-badge)
+
+---
+
+## 🌩️ Hosting & Platforms
+![Hostinger](https://img.shields.io/badge/-Hostinger-673DE6?logo=hostinger&logoColor=white&style=for-the-badge)
+![Bluehost](https://img.shields.io/badge/-Bluehost-0D96F6?logo=bluehost&logoColor=white&style=for-the-badge)
+![GoDaddy](https://img.shields.io/badge/-GoDaddy-7DB701?logo=godaddy&logoColor=white&style=for-the-badge)
+![FreeFire](https://img.shields.io/badge/-FreeFire-FFCC00?logo=garena&logoColor=black&style=for-the-badge)
+
+---
+
+# 📐 System Analysis, Design & Methodologies
+
+### Analysis & Design Tools
+![UML](https://img.shields.io/badge/-UML-E84D3D?logo=uml&logoColor=white&style=for-the-badge)
+![Enterprise Architect](https://img.shields.io/badge/-Enterprise%20Architect-0073b7?style=for-the-badge)
+![Draw.io](https://img.shields.io/badge/-Draw.io-FF9900?logo=diagrams.net&logoColor=white&style=for-the-badge)
+![Lucidchart](https://img.shields.io/badge/-Lucidchart-F6961E?logo=lucidchart&logoColor=white&style=for-the-badge)
+![Microsoft Visio](https://img.shields.io/badge/-Visio-2B579A?logo=microsoft-visio&logoColor=white&style=for-the-badge)
+![ERD](https://img.shields.io/badge/-ERD-0070b8?style=for-the-badge)
+![BPMN](https://img.shields.io/badge/-BPMN-007dba?style=for-the-badge)
+
+### Agile & Waterfall
+![Requirements](https://img.shields.io/badge/-Requirements-32B67A?style=for-the-badge)
+![System Design](https://img.shields.io/badge/-System%20Design-007bff?style=for-the-badge)
+![Implementation](https://img.shields.io/badge/-Implementation-e84d3d?style=for-the-badge)
+![Integration & Testing](https://img.shields.io/badge/-Integration%20&%20Testing-00c7b7?style=for-the-badge)
+![Deployment](https://img.shields.io/badge/-Deployment-ff9900?style=for-the-badge)
+![Maintenance](https://img.shields.io/badge/-Maintenance-0092cc?style=for-the-badge)
+
+---
+
+<img width="100%" loading="lazy" src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/main/rainbow-superthin.webp" />
+
+ -->
+
+ 
+<!-- End of README -->
+
+
+
+
+<br>
+<br>
+<br>
+
+
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Hagrass&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmoud-Hagrass&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+
+
+
+
+<br>
+<br>
+<br>
+
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/output/github-snake.svg" />
+</picture>
+</div>
+
+
+<br>
+<br>
+
+<img width="100%" loading="lazy" src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/main/rainbow-superthin.webp" />
+
+
+
+
+
+
+<!--
+
+<br>
+<br>
+<br>
+
+
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Hagrass&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmoud-Hagrass&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+
+
+
+## 🌱 I’m Currently Learning:
+
+- Advanced **Laravel** techniques (Queues, Jobs, and Event Broadcasting).
+- **API Optimization** & **Performance Tuning**.
+- **Learning SOLID Principals and Desgin Patterns**.
+---
+
+## 🛠 Languages and Tools:
+### Languages:
+- **PHP** 
+- **JavaScript** (for API integrations)
+- **HTML** (for web development)
+- **CSS** (for web design)
+
+### Frameworks and Libraries:
+- **Laravel** 
+- **Livewire**
+- **Redis** (for caching)
+- **MySQL** / **MariaDB** (for databases)
+- **AJAX** (for asynchronous web requests)
+- **jQuery** (for dynamic client-side functionality)
+- **WebSockets** (for real-time communication)
+- **Pusher** (for real-time notifications)
+
+### Tools:
+- **Git** / **GitHub** (version control)
+- **Docker** (for containerized environments)
+- **Apache / Nginx** (web servers)
+- **Redis** (for caching and real-time data)
+
+---
+
+
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/output/github-snake.svg" />
+</picture>
+</div>
+
+
+
+
+
+
+
+-->
+
+
+
+
+<!--
+update-readme
+
 
 <img width="100%" loading="lazy" src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/main/rainbow-superthin.webp" />
 
@@ -252,7 +1614,7 @@
 
 
 
-
+-->
 
 
 
