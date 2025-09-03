@@ -4,6 +4,27 @@
   <img src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/main/rainbow-superthin.webp" width="100%"/>
 </p>
 -->
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/main/rainbow-superthin.webp" width="100%"/>
+</p>
+
+
+<div align="center">
+
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,python,cpp,cs" height="40" />
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,flutter,figma" height="40" />
+  
+  <!-- Backend/DB -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mysql,mongodb,redis,postgres" height="40" />
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,visualstudio,vscode,photoshop,docker" height="40" />
+  <!-- Deployment -->
+  <img src="https://skillicons.dev/icons?i=vercel,railway" height="40" />
+
+</div>
 
 <!-- MODERN PORTFOLIO README -->
 
@@ -69,6 +90,7 @@
 
 -->
 
+<!--
 <br>
 
 ## 🌟 Professional Summary
@@ -91,23 +113,19 @@
 
 <br/>
 <br/>
+-->
 
 
 
-
+<!-- 
 ## 🚀 Tech Stack
 
 <div align="center">
 
-  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,python,cpp,cs" height="40" />
-  <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,flutter,figma" height="40" />
-  <!-- Backend/DB -->
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,mysql,mongodb,redis,postgres" height="40" />
-  <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,androidstudio,visualstudio,vscode,photoshop,docker" height="40" />
-  <!-- Deployment -->
   <img src="https://skillicons.dev/icons?i=vercel,railway" height="40" />
 
 </div>
@@ -115,6 +133,9 @@
 
 <br>
 <br>
+
+
+-->
 
 <!---
 
@@ -225,6 +246,42 @@ I have worked on <b>academic and personal projects</b> ranging from desktop to m
 <br/>
 
 -->
+
+
+
+
+## 📝 Professional Summary
+
+<p align="center">
+I am <b>Ebrahim Al-Ahmadi</b>, a passionate <b>Junior Full-Stack Developer</b> focused on building 
+<b>high-performance, scalable web applications</b>.  
+I specialize in backend development using <b>PHP & Laravel</b>, and I also have strong frontend 
+skills with modern frameworks and tools.  
+</p>
+
+<p align="center">
+🎓 Recently completed my <b>Bachelor's degree in Information Technology</b>, gaining hands-on 
+experience in <b>programming, networking, software development, and system analysis</b>.  
+</p>
+
+<p align="center">
+⚡ My strengths include:  
+✔️ Building <b>RESTful APIs</b>  
+✔️ Optimizing <b>databases</b>  
+✔️ Designing <b>responsive UIs</b>  
+</p>
+
+<p align="center">
+I have worked on <b>academic and personal projects</b> ranging from desktop to mobile and web applications.  
+🚀 I am a <b>fast learner</b>, adaptable, and always eager to explore new technologies to solve real-world problems effectively.  
+</p>
+
+
+
+<br/>
+<br/>
+
+
 
 
 <hr/>
@@ -416,6 +473,7 @@ I have worked on <b>academic and personal projects</b> ranging from desktop to m
 </p>
 
 
+<!--
 
 ---
 
@@ -431,6 +489,35 @@ I have worked on <b>academic and personal projects</b> ranging from desktop to m
 </p>
 
 
+
+-->
+
+
+  <!--
+
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Figma-7B5CFA?logo=figma&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Figma-1ABCFE?logo=figma&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Figma-FF7262?logo=figma&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Figma-0E0E0E?logo=figma&logoColor=white&style=for-the-badge"/>
+  
+  -->
+  
+---
+
+### 🎨 UI/UX Design
+<p align="center">
+
+  
+<img src="https://img.shields.io/badge/-Figma-FF7262?logo=figma&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=Canva&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge"/>
+  
+</p>
+<p align="center">
+  🖼️ Wireframing • 📝 Prototyping • 🎨 Design Systems  
+  📱 Responsive Design • 🔗 Frontend ↔ Backend (Laravel Blade)
+</p>
 
 
 
