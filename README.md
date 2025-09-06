@@ -450,6 +450,7 @@ Department: IT Department – 📍 Sanaa, Yemen
 
 <div align="center">
 
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/output/github-snake.svg" />
@@ -458,8 +459,23 @@ Department: IT Department – 📍 Sanaa, Yemen
 </div>
 
 
+
+-->
+
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ebrahimalahmadi/ebrahimalahmadi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ebrahimalahmadi/ebrahimalahmadi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ebrahimalahmadi
+/ebrahimalahmadi/output/github-snake.svg" />
+</picture>
+</div>
+
 <br>
 <br>
+
 
 <img width="100%" loading="lazy" src="https://raw.githubusercontent.com/ebrahimalahmdi/ebrahimalahmdi/main/rainbow-superthin.webp" />
 
