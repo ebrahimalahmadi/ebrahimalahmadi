@@ -22,12 +22,18 @@
 
 Hello, I am **Ebrahim El-Ahmadi**, a **full stack web applicaton developer** based in Sanda, Yemen. I specialize in developing creative, user-friendly, responsive, and minimalistic websites and web applications using modern technologies. I am passionate about crafting efficient and scalable solutions, and I excel in dynamic, collaborative environments. Feel free to connect with me to discuss exciting opportunities or potential collaborations.
 
-
+=======
  
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
 -->
-
-
 
 
 
@@ -68,11 +74,82 @@ Hello, I am **Ebrahim El-Ahmadi**, a **full stack web applicaton developer** bas
 
 </div>
 
+<br><br>
 
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<br/>
-<br/>
+
+<!--
+<br><br>
+
+
+## Currently I am working with ...
+
+<div align="center">
+
+
+<br>
+
+<a href="#"><img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge"></a>
+
+</div>
+<br><br>
+
+
+<br><br>
+
+### I have also worked with ...
+
+<a href="" title="Java" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Golang" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="C" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="C++" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="HTML" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="CSS" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Spring Framework" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Apache Maven" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="PostgreSQL" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Redis" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="RabbitMQ" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Apache Kafka" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Postman" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Docker" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Kubernetes" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+
+
+## Currently I am working with ...
+
+<div align="center">
+
+
+<br>
+
+<a href="#"><img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge"></a>
+
+</div>
+<br><br>
+
+
+-->
 
 
 
@@ -316,22 +393,53 @@ Department: IT Department – 📍 Sanaa, Yemen
 <br>
 <br>
 <br>
-<h3 align="left">Languages and Tools:</h3>
-
 
 
 <br>
 <br>
 <br>
+
+<!--
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ebrahimalahmadi&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
+
+
+
+<!--
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+-->
+>
 
 
 ## 📊 GitHub Stats:
+
+<br>
+<br>
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Hagrass&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahmoud-Hagrass&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ebrahimalahmadi&bg_color=011627&color=c792ea&line=c792ea&point=ffeb95&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
