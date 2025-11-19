@@ -60,3 +60,64 @@
 </div>
 
 <br><br>
+
+
+
+<!-- ======================= TOP SKILLS (Ultra Pro) ======================= -->
+
+<h2 align="center">💡 Top Skills</h2>
+
+<div align="center" style="margin-top: 15px; margin-bottom: 18px;">
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=php" width="50"/><br>
+        <sub>PHP</sub>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=laravel" width="50"/><br>
+        <sub>Laravel</sub>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>
+        <sub>MySQL</sub>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=git" width="50"/><br>
+        <sub>Git</sub>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=github" width="50"/><br>
+        <sub>GitHub</sub>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>
+        <sub>VSCode</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=postman" width="50"/><br>
+        <sub>Postman</sub>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>
+        <sub>Bootstrap</sub>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=cs" width="50"/><br>
+        <sub>C#</sub>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=html" width="50"/><br>
+        <sub>HTML</sub>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=css" width="50"/><br>
+        <sub>CSS</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br><br>
