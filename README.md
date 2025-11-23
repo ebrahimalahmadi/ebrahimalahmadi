@@ -22,12 +22,13 @@
 <!-- Bottom Divider -->
 <img src="https://raw.githubusercontent.com/ebrahimalahmadi/ebrahimalahmadi/main/rainbow-superthin.webp" width="100%" style="margin-bottom: 25px;" />
 
-<!-- Main Capsule Header -->
+
+<!-- Animation Main Capsule Header -->
+
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&customColorList=0,2,4,5&text=Ebrahim%20Al-Ahmadi&fontSize=60&animation=twinkling&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Software%20Engineer&descAlignY=58&descSize=22"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Ebrahim%20Al-Ahmadi&fontSize=55&fontAlignY=40&desc=Backend%20Engineer%20%7C%20System%20Designer&descSize=20&fontColor=fff" />
 </p>
+
 
 
 <!-- ======================= CONTACT SECTION (Ultra Pro) ======================= -->
@@ -121,3 +122,20 @@
 </div>
 
 <br><br>
+
+
+
+<!-- Footer Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=2,4,6&section=footer"/>
+</p>
+
+
+
+
+
+<!-- Bottom Divider -->
+<img src="https://raw.githubusercontent.com/ebrahimalahmadi/ebrahimalahmadi/main/rainbow-superthin.webp" width="100%" style="margin-bottom: 25px;" />
+
+---
+
