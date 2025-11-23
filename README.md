@@ -19,6 +19,7 @@
   />
 </div>
 
+
 <!-- Bottom Divider -->
 <img src="https://raw.githubusercontent.com/ebrahimalahmadi/ebrahimalahmadi/main/rainbow-superthin.webp" width="100%" style="margin-bottom: 25px;" />
 
@@ -50,6 +51,12 @@
           <sub>GitHub</sub>
         </a>
       </td>
+       <td align="center" style="padding: 10px;">
+        <a href="https://gmail/ebrahimalahmdi1694450@gmail.com">
+          <img src="https://skillicons.dev/icons?i=gmail" width="45"/><br>
+          <sub>Gmail</sub>
+        </a>
+      </td>
       <td align="center" style="padding: 10px;">
         <a href="https://wa.me/+967772053309">
           <img src="https://skillicons.dev/icons?i=discord" width="45"/><br>
@@ -71,23 +78,28 @@
 <div align="center" style="margin-top: 15px; margin-bottom: 18px;">
   <table>
     <tr>
+       <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=laravel" width="50"/><br>
+        <sub>Laravel</sub>
+      </td>
       <td align="center" style="padding: 10px;">
         <img src="https://skillicons.dev/icons?i=php" width="50"/><br>
         <sub>PHP</sub>
       </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://skillicons.dev/icons?i=laravel" width="50"/><br>
-        <sub>Laravel</sub>
+         <td align="center" style="padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>
+        <sub>Bootstrap</sub>
       </td>
       <td align="center" style="padding: 10px;">
         <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>
         <sub>MySQL</sub>
       </td>
-      <td align="center" style="padding: 10px;">
+       <tr>
+       <td align="center" style="padding: 10px;">
         <img src="https://skillicons.dev/icons?i=git" width="50"/><br>
         <sub>Git</sub>
       </td>
-      <td align="center" style="padding: 10px;">
+        <td align="center" style="padding: 10px;">
         <img src="https://skillicons.dev/icons?i=github" width="50"/><br>
         <sub>GitHub</sub>
       </td>
@@ -95,33 +107,107 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>
         <sub>VSCode</sub>
       </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 10px;">
+        <td align="center" style="padding: 10px;">
         <img src="https://skillicons.dev/icons?i=postman" width="50"/><br>
         <sub>Postman</sub>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>
-        <sub>Bootstrap</sub>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://skillicons.dev/icons?i=cs" width="50"/><br>
-        <sub>C#</sub>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://skillicons.dev/icons?i=html" width="50"/><br>
-        <sub>HTML</sub>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://skillicons.dev/icons?i=css" width="50"/><br>
-        <sub>CSS</sub>
       </td>
     </tr>
   </table>
 </div>
 
 <br><br>
+
+
+
+
+
+
+## 📝 Professional Summary  
+
+I am a **Backend Engineer** specialized in designing and building robust backend systems using **Clean Architecture**, **SOLID principles**, and modern development standards.  
+I focus on writing **clean**, **scalable**, and **maintainable** code, while ensuring high performance, secure authentication, and reliable database structures.
+
+With strong expertise in API development, database engineering, and system analysis, I deliver backend solutions that are optimized, extensible, and aligned with real-world business requirements.
+
+
+
+---
+
+<!-- ======================= TECH STACK ======================= -->
+
+## 🛠️ Tech Stack
+
+### 🔥 Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,cs,cpp,js,python" />
+</p>
+
+### ⚙️ Backend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,dotnet,nodejs" />
+</p>
+
+### 🗄️ Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&style=for-the-badge&logoColor=white">
+</p>
+
+
+## 🔐 **API Development & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+</p>
+
+## 🧱 **Architecture & Principles**
+- Object-Oriented Programming (OOP)
+- MVC Architecture
+- Clean Architecture
+- SOLID Principles  
+- Dependency Injection  
+- Web Security Best Practices
+
+
+
+### 🎨 Front-End Basics  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
+</p>
+
+### ☁ DevOps & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,kubernetes,aws" />
+</p>
+
+
+
+
+---
+
+# 🎓 Education
+**Bachelor’s Degree in Information Technology**  
+*Emirates International University – Sana’a, Yemen (2021–2025)*  
+- Graduation Project: **Yemen Zone – Multi-Vendor eCommerce CMS Platform**  
+
+---
+
+# 🌐 Languages
+- 🇾🇪 **Arabic:** Native  
+- 🇬🇧 **English:** Professional Working Proficiency  
+
+---
+
+# 📫 Contact Info
+- **Email:** ebrahimalahmdi1694450@gmail.com  
+- **Phone:** +967 772 053 309  
+- **Location:** Sanda, Yemen  
+
+
+---
+
 
 
 
