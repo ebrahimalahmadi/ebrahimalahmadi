@@ -14,6 +14,20 @@
 <!-- Top Divider -->
 <img src="https://raw.githubusercontent.com/ebrahimalahmadi/ebrahimalahmadi/main/rainbow-superthin.webp" width="100%" />
 
+<!-- ============================================================ -->
+<!--                        Animation Main Capsule Header         -->
+<!-- ============================================================ -->
+
+<!-- Dark Premium Header with Typing Effect -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=dark&section=header&text=Ebrahim%20Al-Ahmadi&fontAlignY=40&fontSize=65&fontColor=FFFFFF&animation=fadeIn&desc=%F0%9F%9D%A0%EF%B8%8F%20Full-Stack%20Developer%20%7C%20%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20Software%20Engineer&descSize=28&descAlignY=58&descAnimation=typewriter"
+    width="100%"
+  />
+</p>
+
+
+
 <!-- Typing Intro - Roles -->
 <div align="center" style="margin-top: 20px; margin-bottom: -10px;">
   <img
@@ -25,10 +39,7 @@
 <!-- Bottom Divider -->
 <img src="https://raw.githubusercontent.com/ebrahimalahmadi/ebrahimalahmadi/main/rainbow-superthin.webp" width="100%" style="margin-bottom: 25px;" />
 
-<!-- Animation Main Capsule Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Ebrahim%20Al-Ahmadi&fontSize=55&fontAlignY=40&desc=Backend%20Engineer%20%7C%20System%20Designer&descSize=20&fontColor=fff" />
-</p>
+
 
 
 
@@ -221,6 +232,8 @@ My expertise includes API engineering, database design, authentication systems, 
 - Graduation Project: **Yemen Zone – Multi-Vendor eCommerce CMS Platform**  
 
 
+<!-- 
+
 ---
 
 # 📫 Contact Info
@@ -229,12 +242,8 @@ My expertise includes API engineering, database design, authentication systems, 
 - **Location:** Sana’a, Yemen  
 
 
+-->
 ---
-
-<!-- FOOTER WAVE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=18,24,28&section=footer"/>
-</p>
 
 
 
@@ -242,7 +251,7 @@ My expertise includes API engineering, database design, authentication systems, 
 <!--                     📊 GITHUB PREMIUM STATS                  -->
 <!-- ============================================================ -->
 
-<h2 align="center">📊 GitHub Stats (Premium)</h2>
+<h2 align="center">📊 GitHub Stats </h2>
 
 <div align="center">
 
@@ -262,3 +271,24 @@ My expertise includes API engineering, database design, authentication systems, 
        height="170" />
 
 </div>
+
+
+
+
+<!-- ============================================================ -->
+<!--                        Animation Main Capsule Footer         -->
+<!-- ============================================================ -->
+
+
+<!-- Dark Premium Footer -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=dark&section=footer&text=Thank%20you%20for%20visiting%20my%20GitHub!&fontAlignY=40&fontSize=40&fontColor=FFFFFF&animation=fadeIn"
+    width="100%"
+  />
+</p>
+
+
+
+
+---
