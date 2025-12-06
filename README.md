@@ -18,13 +18,14 @@
 <!--                        Animation Main Capsule Header         -->
 <!-- ============================================================ -->
 
-<!-- Dark Premium Header with Typing Effect -->
+<!-- Dark Premium Header with Typing Effect + Gradient -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=dark&section=header&text=Ebrahim%20Al-Ahmadi&fontAlignY=40&fontSize=65&fontColor=FFFFFF&animation=fadeIn&desc=%F0%9F%9D%A0%EF%B8%8F%20Full-Stack%20Developer%20%7C%20%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20Software%20Engineer&descSize=28&descAlignY=58&descAnimation=typewriter"
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12&section=header&text=Ebrahim%20Al-Ahmadi&fontAlignY=40&fontSize=65&fontColor=FFFFFF&animation=fadeIn&desc=%F0%9F%9D%A0%EF%B8%8F%20Full-Stack%20Developer%20%7C%20%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20Software%20Engineer&descSize=28&descAlignY=58&descAnimation=typewriter"
     width="100%"
   />
 </p>
+
 
 
 
@@ -275,15 +276,15 @@ My expertise includes API engineering, database design, authentication systems, 
 
 
 
+
 <!-- ============================================================ -->
 <!--                        Animation Main Capsule Footer         -->
 <!-- ============================================================ -->
 
-
-<!-- Dark Premium Footer -->
+<!-- Gradient Footer (Dark Premium Style) -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=dark&section=footer&text=Thank%20you%20for%20visiting%20my%20GitHub!&fontAlignY=40&fontSize=40&fontColor=FFFFFF&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12&section=footer&fontAlignY=40&fontSize=40&fontColor=FFFFFF&animation=fadeIn"
     width="100%"
   />
 </p>
@@ -291,4 +292,12 @@ My expertise includes API engineering, database design, authentication systems, 
 
 
 
+
+<!-- Bottom Divider -->
+<img src="https://raw.githubusercontent.com/ebrahimalahmadi/ebrahimalahmadi/main/rainbow-superthin.webp" width="100%" style="margin-bottom: 25px;" />
+
+<!-- Bottom Divider -->
+<img src="https://raw.githubusercontent.com/ebrahimalahmadi/ebrahimalahmadi/main/rainbow-superthin.webp" width="100%" style="margin-bottom: 25px;" />
+
 ---
+
